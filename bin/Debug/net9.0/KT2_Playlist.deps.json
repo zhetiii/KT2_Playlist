@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "KT2_Playlist/1.0.0": {
+        "runtime": {
+          "KT2_Playlist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KT2_Playlist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

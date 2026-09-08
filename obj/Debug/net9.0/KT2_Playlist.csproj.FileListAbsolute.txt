@@ -1,0 +1,14 @@
+C:\Users\dikol\KT2_Playlist\bin\Debug\net9.0\KT2_Playlist.exe
+C:\Users\dikol\KT2_Playlist\bin\Debug\net9.0\KT2_Playlist.deps.json
+C:\Users\dikol\KT2_Playlist\bin\Debug\net9.0\KT2_Playlist.runtimeconfig.json
+C:\Users\dikol\KT2_Playlist\bin\Debug\net9.0\KT2_Playlist.dll
+C:\Users\dikol\KT2_Playlist\bin\Debug\net9.0\KT2_Playlist.pdb
+C:\Users\dikol\KT2_Playlist\obj\Debug\net9.0\KT2_Playlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dikol\KT2_Playlist\obj\Debug\net9.0\KT2_Playlist.AssemblyInfoInputs.cache
+C:\Users\dikol\KT2_Playlist\obj\Debug\net9.0\KT2_Playlist.AssemblyInfo.cs
+C:\Users\dikol\KT2_Playlist\obj\Debug\net9.0\KT2_Playlist.csproj.CoreCompileInputs.cache
+C:\Users\dikol\KT2_Playlist\obj\Debug\net9.0\KT2_Playlist.dll
+C:\Users\dikol\KT2_Playlist\obj\Debug\net9.0\refint\KT2_Playlist.dll
+C:\Users\dikol\KT2_Playlist\obj\Debug\net9.0\KT2_Playlist.pdb
+C:\Users\dikol\KT2_Playlist\obj\Debug\net9.0\KT2_Playlist.genruntimeconfig.cache
+C:\Users\dikol\KT2_Playlist\obj\Debug\net9.0\ref\KT2_Playlist.dll
