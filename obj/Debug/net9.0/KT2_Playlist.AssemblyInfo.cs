@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KT2_Playlist")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac0336725c3bf6c4cb298621c2c83e98b1d2f5d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("KT2_Playlist")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KT2_Playlist")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
